@@ -1,35 +1,28 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: 전자공학 학사, 소프트웨어 개발자
 permalink: /about
 comments: true
 ---
 
 <div class="row justify-content-between">
+
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
-
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
-
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
-
-<h4>Questions or bug reports?</h4>
-
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<h4>관심사</h4>
+<p>안드로이드, 머신러닝, 스프링부트, 레이싱드론</p>
+<h4>취미</h4>
+<p>레이싱 드론 조종, 유튜브 <a href="https://www.youtube.com/channel/UCH6An8iudS16TGQRZCiHKAA">채널</a> 운영</p>
 
 </div>
 
 <div class="col-md-4">
-
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+<h5>연결된 Github 주소</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<p>간간히 개인 프로젝트를 작성하고 있습니다.  <a target="_blank" href="https://github.com/haejung83">Github<i class="fab fa-github"></i></a>.</p>
 
 </div>
 </div>
+
 </div>
