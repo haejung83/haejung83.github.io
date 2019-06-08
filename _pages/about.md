@@ -20,7 +20,8 @@ comments: true
 <div class="sticky-top sticky-top-80">
 <h5>연결된 Github 주소</h5>
 
-<p>간간히 개인 프로젝트를 작성하고 있습니다.  <a target="_blank" href="https://github.com/haejung83">Github<i class="fab fa-github"></i></a>.</p>
+<p>간간히 개인 프로젝트를 작성하고 있습니다.</p>
+<p><a target="_blank" href="https://github.com/haejung83">Github<i class="fab fa-github"></i></a></p>
 
 </div>
 </div>
