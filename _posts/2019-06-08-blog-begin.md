@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "블로그 테스트 - 그리고 시작"
-author: 김해중
+author: haejung
 categories: [ essay ]
 image: assets/images/12.jpg
 featured: true
